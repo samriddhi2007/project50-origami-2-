@@ -1,0 +1,23 @@
+h1 {
+    color: darkorchid;
+     ;
+}
+
+.header{
+    background-color: paleturquoise;
+   display:flex;
+  justify-content: center;
+
+}
+.dog{
+    background-color: lightpink;
+    display:flex;
+    justify-content: center;
+    border: solid
+}
+.dolphin{
+    background-color: lightsalmon;
+    display:flex;
+    justify-content: center;
+    border: solid
+}
